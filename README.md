@@ -103,7 +103,9 @@ GFS...BigTable （TBD）
 備註：
 
 Cert, Certificate 又稱為票據或是電子憑證
+
 Token, 權杖
+
 Key, 金鑰
 
 # 安全檢查清單表
