@@ -19,13 +19,13 @@ GFS...BigTable
                   
 # Hadoop 其他元件
 
-                 Spark 處理流程的另一平台
+                       Spark 處理流程的另一平台
 
-                   Yarn 資源設定系統
+         Yarn 資源設定系統 // Spark 則是運用 Standalone // Apache 使用 Mesos
                 
-                  Mahout 資料採擷工具
+                        Mahout/R 資料採擷工具
                 
-                   Hive 資料倉儲工具
+                           Hive 資料倉儲工具
 # 資料流程處理
 
 資料流程指的是一個持續不斷的無序資料集，而資料流程處理是把連續不間斷的資料登錄分割成單中繼資料塊 chunk or block。
