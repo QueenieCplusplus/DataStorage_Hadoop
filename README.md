@@ -66,3 +66,15 @@ GFS...BigTable （TBD）
 (6) 採用 Kerberos 協定作為網路身份識別控制，有效保護叢集中沒有流氓節點。
 
 (7) 節點之間或是節點與應用程式之間採用安全通訊協定 SSL。
+
+# 4A, 角色許可權管理
+
+Authentication
+
+Account
+
+Authorization
+
+Audit
+
+
