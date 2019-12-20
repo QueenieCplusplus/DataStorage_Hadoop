@@ -100,6 +100,12 @@ Account 帳號
 
 4. Server 收到後，利用 Cert 與 CA 給的 key，將此 Cert decrypt，近一步獲得 user資訊，方才回傳 response。
 
+備註：
+
+Cert, Certificate 又稱為票據或是電子憑證
+Token, 權杖
+Key, 金鑰
+
 # 安全檢查清單表
 
 1) 管理員的帳密是否經過合理的管理
