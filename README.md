@@ -96,9 +96,9 @@ Account 帳號
 
 2. CA 將 session 的 key + username + user IP + service name + valide time + timestamp 包裝成為 Cert，發給 client，Cert 和 session key 都是經過加密後方才返回給 Client 的。
 
-3.
+3. Client 收到 CA 給的這份 Cert，同時間將收到的 session key 解壓縮並且將自己的 username + user IP 包裝封裝後成為 session key，並且 encrypt 此封裝物件，爾後將 Cert 與 session key 發給 Server。
 
-4.
+4. Server 收到後，利用 Cert 與 CA 給的 key，將此 Cert decrypt，近一步獲得 user資訊，方才回傳 response。
 
 # 安全檢查清單表
 
