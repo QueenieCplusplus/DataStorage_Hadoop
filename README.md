@@ -69,12 +69,12 @@ GFS...BigTable （TBD）
 
 # 4A, 角色許可權管理
 
-Authentication
+Authentication 認證
 
-Account
+Authorization 授權
 
-Authorization
+Audit 稽核
 
-Audit
+Account 帳號
 
 
