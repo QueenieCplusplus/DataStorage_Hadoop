@@ -39,4 +39,7 @@ GFS...BigTable
 
 # 面臨的瓶頸與風險
 
+1. Node 單點故障和 failover
+2. Cluster Infra Failout 影響可用性與可依賴性
+3. Cluster 對數據的隱私安全問題
 
