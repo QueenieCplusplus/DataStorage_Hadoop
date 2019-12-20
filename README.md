@@ -11,11 +11,11 @@ GFS...BigTable
 
 # Hadoop 核心元件
 
-                   HBase
+                   HBase 資料庫
                   
-                    HDFS
+                    HDFS 存儲系統
                   
-                  DataNode
+                  DataNode 節點
                   
 # Hadoop 其他元件
 
