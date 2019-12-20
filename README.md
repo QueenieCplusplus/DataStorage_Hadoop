@@ -71,13 +71,13 @@ GFS...BigTable （TBD）
 
 透過 Kerberos 作為 ID storage, 透過 LDAP 管理 accounts，平台結合 LDAP 做到 Role Base Access Control。
 
-Authentication 認證
+* Authentication 認證
 
-Authorization 授權
+* Authorization 授權
 
-Audit 稽核
+* Audit 稽核
 
-Account 帳號
+* Account 帳號
 
 # key in Session, 加密的安全通訊技術
 
