@@ -85,10 +85,11 @@ Account 帳號
 
                           Key Assigning Center (CA)
                 
-                
-                
-                
-                 Client                         Server
+                        / /
+                       / /
+                      / /
+                            
+                 Client       ___ ___ ___     Server
 
 
 1. Client 將 request 和 decript Cert 發給給 CA ，CA 返回一個 Auth 授權，並且產生 Sesseion Key，作用於 C/S 之間的身份驗證。
