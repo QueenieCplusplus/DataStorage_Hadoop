@@ -7,7 +7,7 @@ Hadoop 分散式資料存儲，引領去 IOE 風潮 (IBM, Oracle, EMC 這些昂�
 
 # 發展起源
 
-GFS...BigTable
+GFS...BigTable （TBD）
 
 # Hadoop 核心元件
 
@@ -50,3 +50,5 @@ GFS...BigTable
 1. 提升容錯
 2. Facebook 的方案
 3. TDH 的方案
+
+# 安全與隱私
