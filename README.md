@@ -79,6 +79,26 @@ Audit 稽核
 
 Account 帳號
 
+# key in Session, 加密的安全通訊技術
+
+
+
+                          Key Assigning Center (CA)
+                
+                
+                
+                
+                 Client                         Server
+
+
+1. Client 將 request 和 decript Cert 發給給 CA ，CA 返回一個 Auth 授權，並且產生 Sesseion Key，作用於 C/S 之間的身份驗證。
+
+2. CA 將 session 的 key + username + user IP + service name + valide time + timestamp 包裝成為 Cert，發給 client，Cert 和 session key 都是經過加密後方才返回給 Client 的。
+
+3.
+
+4.
+
 # 安全檢查清單表
 
 1) 管理員的帳密是否經過合理的管理
