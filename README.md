@@ -69,6 +69,8 @@ GFS...BigTable （TBD）
 
 # 4A, 角色許可權管理
 
+透過 Kerberos 作為 ID storage, 透過 LDAP 管理 accounts，平台結合 LDAP 做到 Role Base Access Control。
+
 Authentication 認證
 
 Authorization 授權
