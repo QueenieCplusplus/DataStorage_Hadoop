@@ -1,5 +1,5 @@
 # DataStorage_Hadoop
-Hadoop 分散式資料存儲
+Hadoop 分散式資料存儲，引領去 IOE 風潮 (IBM, Oracle, EMC 這些昂貴又難以維護的資料庫系統。)
 
 # 資料倉儲
 
