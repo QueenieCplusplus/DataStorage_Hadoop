@@ -1,6 +1,8 @@
 # DataStorage_Hadoop
 Hadoop 分散式資料存儲，引領去 IOE 風潮 (IBM, Oracle, EMC 這些昂貴又難以維護的資料庫系統。)
 
+https://piazza-resources.s3.amazonaws.com/ist3pwd6k8p5t/iu5gqbsh8re6mj/OReilly.Hadoop.The.Definitive.Guide.4th.Edition.2015.pdf
+
 # 資料倉儲
 
 資料倉儲是解決大數據存儲的基礎設施，此系統提供資料備份機制，可以將資料存儲分佈在大量伺服器中，在可靠地多備份儲存的同時，亦能將存取權分佈到叢集中每個伺服器上。Hadoop 會自動備份 3 份！
